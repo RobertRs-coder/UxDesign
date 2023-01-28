@@ -1,14 +1,12 @@
-#  DragonBall Advanced App
+#  UX & UI Design
 
 ## Summary
-In this project, I try to create an app to consumes from DragonBall API with local data cached by Room Database and implement dependency injection with Hilt.
+In this project, I try to create a wireframes and mock for mobile marvel app.
 
 ## Key concepts
-+ SOLID
-+ Clean Architecture
-+ Dependency Injection
-+ ROOM
-+ Hilt
++ Color Theory
++ UX
++ UI
 
 ## Dependency diagram
-![dependency_diagram](./docs/AdvancedDragonBallDependencyFrameworkHiltDiagram.drawio.png)
+![mockup](MockUp.png)
