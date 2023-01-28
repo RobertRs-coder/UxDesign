@@ -8,5 +8,5 @@ In this project, I try to create a wireframes and mock for mobile marvel app.
 + UX
 + UI
 
-## Dependency diagram
+## Wireframes & Mouckup
 ![mockup](MockUp.png)
